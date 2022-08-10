@@ -1,0 +1,105 @@
+a{
+    text-decoration: none;
+}
+ul li{
+    background-color:#fdf0d5;
+    padding: 10px;
+    margin: 20px;
+    width: 1000px;
+    color:darksalmon ;
+    text-align: center;
+    box-shadow: #780000 5px 3px 2px;
+}
+
+ul li:hover{
+    opacity: 0.5;
+}
+    
+.hallo{
+    background-color: darksalmon;
+    height: 30px;
+    width: auto;
+    text-align: center;
+    color: #780000;
+}
+.cc1{
+    background-color: #dde5b6;
+}
+
+.cc2{
+    background-color: #dde5b6;
+
+}
+
+.subway{
+   background-color: darkred;
+   width: auto;
+   color: peachpuff;
+   text-align: center;
+}
+.img1{
+    width:600px;
+}
+.p1{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+.p2{
+text-align: center;
+font-weight: bolder;
+    font-style: italic;
+}
+.p3{
+text-align: center;
+font-weight: bolder;
+    font-style: italic;
+}
+.hallo2{
+    background-color: darkred;
+    width: 800px;
+    height:20px ;
+    color: peachpuff;
+    text-align: center;
+    padding: 10px;
+}
+.hallo3{
+    background-color: indigo;
+    width:600px ;
+    color: gold;
+    margin-left: auto;
+
+}
+
+ol li{
+    background-color:#fdf0d5 ;
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+    text-align: center;
+    color: #780000;
+}
+
+ol li:hover{
+    box-shadow: 4px 3px 1px;
+}
+
+.link1{
+    color: saddlebrown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link2{
+   color: darkorange;
+   font-weight: bolder;
+   font-style: italic;
+}
+
+
+
+.link3{
+    color: deeppink;
+    background-color: gold;
+    padding: 10px;
+   margin: 20px;
+}
